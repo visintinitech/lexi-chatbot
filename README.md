@@ -209,5 +209,3 @@ Ahora dale, ejecutá `python app.py` y contale a Lexi lo bien que te fue en el p
 
 ---
 
-¿Qué te parece? Le puse **ejemplos con ciudades argentinas**, **feeds de Clarín/Infobae** (que podés cambiar), y un tono bien **che, boludo, copado**. Si querés que ajuste algo más (por ejemplo, que el comando `/weather` use "Buenos Aires" por defecto si no ponés ciudad, o que el feed de noticias sea directamente **Infobae**), avisame y lo adaptamos. ¡Dale que vos podés! 💪🇦🇷
-
