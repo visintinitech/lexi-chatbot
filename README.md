@@ -205,7 +205,3 @@ Armar a Lexi me llevó tiempo, pero aprendí banda: desde cómo funcionan los em
 Ahora dale, ejecutá `python app.py` y contale a Lexi lo bien que te fue en el partido del finde. (Bueno, eso todavía no lo hace, pero quién te dice en la próxima versión).
 
 ¡Éxitos con el proyecto, loco! 🚀🤖
-```
-
-
-
